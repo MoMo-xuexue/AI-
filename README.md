@@ -1,6 +1,40 @@
 # AI资讯
 收集前沿AI资讯，每日更新
 
+<section id="nice" data-tool="markdown编辑器" data-website="https://markdown.com.cn/editor" style="font-size: 16px; color: black; padding: 25px 30px; line-height: 1.6; word-spacing: 0px; letter-spacing: 0px; word-break: break-word; word-wrap: break-word; text-align: justify; font-family: Optima-Regular, Optima, PingFangSC-light, PingFangTC-light, 'PingFang SC', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; margin-top: -10px;"><blockquote data-tool="markdown.com.cn编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; border-left: 3px solid rgba(0, 0, 0, 0.4); background: rgba(0, 0, 0, 0.05); color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px;">
+<p style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0px; color: black; line-height: 26px;">AI日报速览 | 星期六 2024/6/8</p>
+</blockquote>
+<h5 data-tool="markdown.com.cn编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; color: black; font-size: 16px;"><span class="prefix" style="display: none;"></span><span class="content">一、斯坦福团队抄袭清华大模型，事发后紧急删库跑路</span><span class="suffix" style="display: none;"></span></h5>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 斯坦福大学AI团队被指控抄袭清华系大模型MiniCPM-Llama3-V 2.5。</p>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 抄袭涉及模型架构、代码和配置文件，仅变量名有所差异。</p>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 网友在GitHub揭发后，斯坦福团队删除项目页面，面壁智能团队调查确认抄袭。
+参考：
+https://www.qbitai.com/2024/06/149259.html</p>
+<h5 data-tool="markdown.com.cn编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; color: black; font-size: 16px;"><span class="prefix" style="display: none;"></span><span class="content">二、微软将向瑞典人工智能和云计算基础设施投资32亿美元</span><span class="suffix" style="display: none;"></span></h5>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 微软宣布在瑞典投资32亿美元于人工智能和云计算设施。</p>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 投资将用于三座数据中心的2万个GPU，利用瑞典的绿色能源。</p>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 微软承诺对25万人进行“基本AI技能”培训，强化其在北欧的影响力。</p>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">参考：
+https://www.bloomberg.com/news/articles/2024-06-03/microsoft-makes-3-2-billion-ai-bet-on-swedish-data-centers</p>
+<h5 data-tool="markdown.com.cn编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; color: black; font-size: 16px;"><span class="prefix" style="display: none;"></span><span class="content">三、夏普将与KDDI等协商构建AI数据中心</span><span class="suffix" style="display: none;"></span></h5>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 夏普宣布与KDDI等协商一致，将设立面向人工智能的数据中心。</p>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 夏普将停产大型液晶面板，利用现有场地打造AI数据中心作为新收益来源。</p>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 与Datasection等3家公司合作，采购英伟达GPU，目标建成亚洲最大规模数据中心。</p>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">参考：
+https://china.kyodonews.net/news/2024/06/6b180e28da98-kddiai.html</p>
+<h5 data-tool="markdown.com.cn编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; color: black; font-size: 16px;"><span class="prefix" style="display: none;"></span><span class="content">四、澳大利亚新法律将对深度伪造色情判刑</span><span class="suffix" style="display: none;"></span></h5>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 澳大利亚新法律提案将分享数字修改的深度伪造色情图像定为犯罪，最高面临六年监禁。</p>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 制作此类图像将面临更严厉的处罚，最高可达七年监禁。</p>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 法律旨在禁止未经同意使用AI等技术制作的色情图像的分享，无论公开或私下。</p>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">参考：
+https://www.theguardian.com/australia-news/article/2024/jun/01/creating-or-sharing-deepfake-porn-without-consent-to-be-under-proposed-new-australian-laws</p>
+<h5 data-tool="markdown.com.cn编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; color: black; font-size: 16px;"><span class="prefix" style="display: none;"></span><span class="content">五、社交平台 X 调整规则正式允许成人内容</span><span class="suffix" style="display: none;"></span></h5>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ X社交网络正式更新规则，允许用户发布标有NSFW的成人内容。</p>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 此前X非正式地允许成人内容发布，但规则未明确禁止或允许。</p>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 新规则适用于自愿制作的NSFW内容和人工智能生成的视频图片。</p>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">参考：
+https://techcrunch.com/2024/06/03/x-tweaks-rules-to-formally-allow-adult-content/</p>
+</section>
 
 **AI日报速览 | 星期六 2024/6/8**
 
