@@ -2,6 +2,41 @@
 收集前沿AI资讯，每日更新
 
 <section id="nice" data-tool="markdown编辑器" data-website="https://markdown.com.cn/editor" style="font-size: 16px; color: black; padding: 25px 30px; line-height: 1.6; word-spacing: 0px; letter-spacing: 0px; word-break: break-word; word-wrap: break-word; text-align: justify; font-family: Optima-Regular, Optima, PingFangSC-light, PingFangTC-light, 'PingFang SC', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; margin-top: -10px;"><blockquote data-tool="markdown.com.cn编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; border-left: 3px solid rgba(0, 0, 0, 0.4); background: rgba(0, 0, 0, 0.05); color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px;">
+<p style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0px; color: black; line-height: 26px;">AI日报速览 | 星期日 2024/6/9</p>
+</blockquote>
+<h5 data-tool="markdown.com.cn编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; color: black; font-size: 16px;"><span class="prefix" style="display: none;"></span><span class="content">一、数名OpenAI、谷歌DeepMind现任和前任员工签署公开信警告人工智能风险</span><span class="suffix" style="display: none;"></span></h5>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 预测称OpenAI的AI系统可能在2027年达到人类智能水平，早于之前的2050年预测。
+▷ 公开信警告AI发展可能带来的风险，包括社会不平等、信息操控和人类灭绝威胁。
+▷ 公开信由OpenAI前雇员和AI业内专家签署，包括Geoffrey Hinton、Yoshua Bengio和Stuart Russell。
+参考：https://x.com/imxiaohu/status/1798134829374153063</p>
+<h5 data-tool="markdown.com.cn编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; color: black; font-size: 16px;"><span class="prefix" style="display: none;"></span><span class="content">二、AI 能否替代公司 CEO？</span><span class="suffix" style="display: none;"></span></h5>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 企业考虑使用AI取代员工，包括分析市场和识别趋势等高管任务。
+▷ AI能自动化高管与员工的沟通任务，并在决策时保持冷静。
+▷ 高管的高薪使他们成为AI替代的潜在对象，有公司已开始实践。
+▷ 网龙网络任命AI助手唐钰为轮值CEO，股价表现超过恒生指数。
+▷ 调查显示近半高管认为CEO职责应自动化或由AI取代。</p>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">参考：https://it.slashdot.org/story/24/06/02/0327205/could-ai-replace-ceos
+https://www.nd.com.cn/about/milestones.shtml</p>
+<h5 data-tool="markdown.com.cn编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; color: black; font-size: 16px;"><span class="prefix" style="display: none;"></span><span class="content">三、英伟达携手鸿海在高雄建设人工智能先进算力中心 预计2026年竣工</span><span class="suffix" style="display: none;"></span></h5>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 鸿海与英伟达合作在台湾高雄建设以GB200服务器为核心的算力中心。
+▷ 该中心将配备64机柜、4608颗CPU，预计2026年完工。
+▷ 合作旨在推动智能制造、智能纯电动汽车、智能城市等平台发展。</p>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">参考：https://money.udn.com/money/story/5612/8008761?from=edn_search_result</p>
+<h5 data-tool="markdown.com.cn编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; color: black; font-size: 16px;"><span class="prefix" style="display: none;"></span><span class="content">四、中国人工智能芯片公司向台积电提交性能较低的 GPU 设计</span><span class="suffix" style="display: none;"></span></h5>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 美国出口管制暴露中国AI芯片设计公司对台积电的依赖和生产能力局限。
+▷ 沐曦集成电路和燧原科技向台积电提交降级芯片设计以遵守美国限制。
+▷ 沐曦开发降级产品C280，最先进GPU C500在中国缺货，两家公司均为中国官方看重的“小巨人”。
+参考：https://www.reuters.com/technology/chinese-ai-chip-firms-downgrading-designs-secure-tsmc-production-sources-say-2024-06-04/</p>
+<h5 data-tool="markdown.com.cn编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; color: black; font-size: 16px;"><span class="prefix" style="display: none;"></span><span class="content">五、美光推出用于游戏和人工智能的新一代GPU内存GDDR7</span><span class="suffix" style="display: none;"></span></h5>
+<p data-tool="markdown.com.cn编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">▷ 美光在台北国际电脑展宣布推出新一代GDDR7显存，性能显著提升。
+▷ GDDR7基于1βDRAM架构，速率达32Gb/s，带宽提升至1.5TB/s，较GDDR6增60%。
+▷ GDDR7能效提升超50%，改善散热和续航，适用于AI、游戏和高性能计算。
+▷ 从2024年下半年起，GDDR7将通过美光及全球渠道分销商供应市场。
+参考：https://www.jiemian.com/article/11255902.html</p>
+</section>
+
+
+<section id="nice" data-tool="markdown编辑器" data-website="https://markdown.com.cn/editor" style="font-size: 16px; color: black; padding: 25px 30px; line-height: 1.6; word-spacing: 0px; letter-spacing: 0px; word-break: break-word; word-wrap: break-word; text-align: justify; font-family: Optima-Regular, Optima, PingFangSC-light, PingFangTC-light, 'PingFang SC', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; margin-top: -10px;"><blockquote data-tool="markdown.com.cn编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; border-left: 3px solid rgba(0, 0, 0, 0.4); background: rgba(0, 0, 0, 0.05); color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px;">
 <p style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0px; color: black; line-height: 26px;">AI日报速览 | 星期六 2024/6/8</p>
 </blockquote>
 <h5 data-tool="markdown.com.cn编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; color: black; font-size: 16px;"><span class="prefix" style="display: none;"></span><span class="content">一、斯坦福团队抄袭清华大模型，事发后紧急删库跑路</span><span class="suffix" style="display: none;"></span></h5>
