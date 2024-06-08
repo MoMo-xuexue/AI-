@@ -2,7 +2,7 @@
 收集前沿AI资讯，每日更新
 
 
-AI日报速览 | 星期六 2024/6/8
+**AI日报速览 | 星期六 2024/6/8**
 
 一、斯坦福团队抄袭清华大模型，事发后紧急删库跑路
 
@@ -66,7 +66,8 @@ https://www.theguardian.com/australia-news/article/2024/jun/01/creating-or-shari
 参考：
 https://techcrunch.com/2024/06/03/x-tweaks-rules-to-formally-allow-adult-content/
 
-AI日报速览 | 星期四 2024/6/6
+
+**AI日报速览 | 星期四 2024/6/6**
 
 一、沙特基金投资中国生成式AI企业智谱
 
@@ -132,7 +133,7 @@ https://www.nvidia.com/en-us/ai/#referrer=ai-subdomain
 
  
 
-AI日报速览 | 星期三 2024/6/5
+**AI日报速览 | 星期三 2024/6/5**
 
 一、Mistra 发布代码生成模型 Codestral
 
@@ -195,8 +196,8 @@ https://www.reuters.com/business/energy/data-centers-could-use-9-us-electricity-
 
  
 
-AI日报速览 | 星期二 2024/6/4
-
+**AI日报速览 | 星期二 2024/6/4
+**
 一、人工智能电力需求激增，美国放缓燃煤电厂退役计划
 
 ▷ 美国因新技术需求电力供应紧张，削减减少燃煤发电量计划。
@@ -260,7 +261,7 @@ https://www.engadget.com/openai-says-it-stopped-multiple-covert-influence-operat
 
 https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/
 
-AI日报速览 | 星期一 2024/6/3
+**AI日报速览 | 星期一 2024/6/3**
 
 一、消息称奥特曼计划将 OpenAI 重组为盈利性公司
 
